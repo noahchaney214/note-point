@@ -10,7 +10,7 @@ NotePoint Suite is a free, cross-platform, open-source, all-in-one information m
 - **Note Taking:** Efficient and organized note-taking with Markdown support.
 - **Password Management:** Securely store and manage your accounts and passwords.
 - **PDF Annotation:** Annotate and mark up PDF documents seamlessly.
-- **Script Programming:** Write and run script programs within the application.
+- **Script Programming:** Write and run script programs within the application (not available on iOS or Android).
 - **Cross-Platform:** Works on Windows, macOS, Linux, iOS, and Android.
 
 ## Download the App
