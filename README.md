@@ -2,7 +2,6 @@
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 [![GitHub Release](https://img.shields.io/github/v/release/noahchaney214/notepoint)](https://github.com/noahchaney214/notepoint/releases)
-[![Build Status](https://travis-ci.org/yourusername/notepoint.svg?branch=master)](https://travis-ci.org/yourusername/notepoint)
 
 NotePoint Suite is a free, cross-platform, open-source, all-in-one information management suite made with Flutter, designed for a variety of tasks including note-taking, password management, PDF annotation, script programming, and more!
 
