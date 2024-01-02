@@ -15,8 +15,8 @@ NotePoint Suite is a free, cross-platform, open-source, all-in-one information m
 
 ## Download the App
 
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.yourusername.notepoint)
-- [iOS App Store](https://apps.apple.com/us/app/notepoint/idyourappid)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.yourusername.notepoint) (not available yet)
+- [iOS App Store](https://apps.apple.com/us/app/notepoint/idyourappid) (not available yet)
 
 ## Getting Started
 
