@@ -1,5 +1,7 @@
 # NotePoint Suite
 
+Your all-in-one info management solution!
+
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 [![GitHub Release](https://img.shields.io/github/v/release/noahchaney214/notepoint)](https://github.com/noahchaney214/notepoint/releases)
 
